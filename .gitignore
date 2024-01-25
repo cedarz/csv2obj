@@ -1,2 +1,5 @@
 csv2obj/Debug/
 csv2obj/Release/
+x64
+.vs
+*.user
